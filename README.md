@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Asif Ali 👋
 
-<!--
-**asifmalikbabu7869-alt/asifmalikbabu7869-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+## About Me
+- Currently pursuing BCA.
+- Learning Data Science at Ducat.
+- Practicing SQL and database creation.
+- Building my foundation in Excel and Power BI.
+- Interested in solving real-world problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL — Basic
+- Microsoft Excel — Basic
+- Power BI — Basic
+
+## Currently Learning
+- Data Science Fundamentals
+- SQL and Database Management
+- Data Analysis
+
+## Projects
+Currently learning and preparing to build my first data project.
+
+## Career Goal
+To become a skilled Data Scientist and gain practical experience through real-world projects and internships.
